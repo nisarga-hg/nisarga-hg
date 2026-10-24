@@ -1,15 +1,25 @@
 # Hi, I'm Nisarga H G 👋
 
-Electronics and Communication Engineering graduate | Aspiring Embedded Systems Engineer
+🎓 Electronics and Communication Engineering Graduate
 
-- 🌱 Learning C programming and Embedded C
-- 💻 Interested in embedded systems, microcontrollers, and Digital Signal Processing (DSP)
-- 🔧 Exploring Linux, hardware interfacing, and firmware development
-- 🎯 Working towards a career in core ECE and embedded systems
+💻 Aspiring Embedded Systems Engineer
+
+## About Me
+- Learning C programming and Embedded C.
+- Interested in microcontrollers, firmware development, and DSP.
+- Practising C programming problems and building projects.
 
 ## Technical Skills
-- Languages: C, Embedded C, Python
-- Hardware: Microcontrollers, Arduino, ESP32
-- Tools: Linux, Git, Arduino IDE
+- C Programming
+- Embedded C
+- Python
+- Linux
+- Arduino and ESP32
 
+## Projects
+- Hybrid Piezo-Solar Charging System
+- Image Forgery Detection and Localization
+- C Programming Practice
 
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/nisarga-hg-1a283532b)
