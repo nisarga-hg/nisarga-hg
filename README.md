@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nisarga H G 👋
 
-<!--
-**nisarga-hg/nisarga-hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering graduate | Aspiring Embedded Systems Engineer
 
-Here are some ideas to get you started:
+- 🌱 Learning C programming and Embedded C
+- 💻 Interested in embedded systems, microcontrollers, and Digital Signal Processing (DSP)
+- 🔧 Exploring Linux, hardware interfacing, and firmware development
+- 🎯 Working towards a career in core ECE and embedded systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: C, Embedded C, Python
+- Hardware: Microcontrollers, Arduino, ESP32
+- Tools: Linux, Git, Arduino IDE
+
+
